@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    user-select: none;
+    overflow: hidden;
+}
+
+canvas{
+    margin: 0 auto;
+    background-color: white;
+    max-width: 450px;
+    width: 100%;
+    
+}
+
+.assets{
+    display: none;
+}
